@@ -1,2 +1,2 @@
-download and run in terminal-npm i
-then run -npm start
+download and run in terminal-> npm i////////
+then run -> npm start
